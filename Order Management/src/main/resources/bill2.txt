@@ -1,0 +1,1 @@
+Order id: 2, client name: Ema, product name: pepene, quantity: 18, price: 1978.2
